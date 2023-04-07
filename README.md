@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Uddeshya08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Uddeshya 
+- 👀 I’m interested in Java, React, Spring Boot and Postgre/MongoDB.
+- 🌱 I’m currently learning React, NodeJS, Azure, DevOPS.
+- 💞️ I’m looking to collaborate on React, Azure $ DevOPS.
+- 📫 How to reach me uddeshya.us@gmail.com.
 
-<!---
-Uddeshya08/Uddeshya08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
